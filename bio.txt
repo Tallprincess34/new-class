@@ -1,2 +1,2 @@
 name: Alex
-job : Designer
+job : FrontEnd Developer
