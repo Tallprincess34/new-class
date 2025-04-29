@@ -1,2 +1,6 @@
 name: Alex
-job : Ux researcher
+update-job
+job : FrontEnd Developer
+
+job : FrontEnd Developer
+ main
